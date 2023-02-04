@@ -16,8 +16,7 @@ Output Image
 
 =============
 
-
-![](output%images.png)
+![](/output%20images.PNG)
 
 
 Setup:
