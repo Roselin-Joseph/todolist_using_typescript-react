@@ -19,10 +19,9 @@ Output Image
 
 
 Setup:
-
 ---------------
 
-  -open folder in VSC and Inside Terminal 
+    -open folder in VSC and Inside Terminal 
     - npm create vite 
     - proceed with y
     -project name
