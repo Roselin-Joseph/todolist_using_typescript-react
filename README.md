@@ -7,8 +7,9 @@ this includes: Setting up state - useState in TypeScript , Change handler - trac
   2. CSS and Formatting
   3.Input Holder to place Tasks to complete and Deadline 
   4.Button to add Tasks
-  5. Displaying all task lists with dealines along with delete button
-  6.function to delete completed tasks from the todotask component
+  5.Displaying all task lists with dealines along with delete button
+  6. function to delete completed tasks from the todotask component
+  
   
 Output Image
 
